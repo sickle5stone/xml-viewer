@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xml-viewer/static/css/main.bc8ae95c.css",
+    "main.js": "/xml-viewer/static/js/main.283379ce.js",
+    "index.html": "/xml-viewer/index.html",
+    "main.bc8ae95c.css.map": "/xml-viewer/static/css/main.bc8ae95c.css.map",
+    "main.283379ce.js.map": "/xml-viewer/static/js/main.283379ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8ae95c.css",
+    "static/js/main.283379ce.js"
+  ]
+}
